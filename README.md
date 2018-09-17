@@ -1,5 +1,5 @@
 # django_blog
-用django写的blog，边学边学
+用django写的blog，边学边写
 
 
 
